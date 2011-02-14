@@ -1,0 +1,14 @@
+This is basically just a cut and paste job on top of 
+http://code.google.com/p/vimperator-labs/issues/detail?id=358
+which is a basically just a cut and paste job on top of 
+the wonderful delicious plugin by nikolai.weibull [1]
+
+Since Pinboard uses the same api, I just went in and changed the embedded URLs and it worked.
+
+All credit to the original author.
+
+
+
+[1] http://code.google.com/p/vimperator-labs/issues/detail?id=241
+
+
