@@ -8,9 +8,7 @@ the wonderful delicious plugin by nikolai.weibull
 
 ## Installation
 
-See Pentadactyl's plugin installation instructions:
-
-<http://5digits.org/pentadactyl/plugins>
+See [Pentadactyl's plugin installation instructions](http://5digits.org/pentadactyl/plugins).
 
 > Install these plugins by copying them to the
 > ~/.pentadactyl/plugins/ directory
@@ -19,8 +17,18 @@ See Pentadactyl's plugin installation instructions:
 
 ## Usage
 
-Use "rinboard" command in Pendatactyl.
+Use the `rinboard` command in Pendatactyl.
 
-Shortcut "rin"
+Shortcut `rin`
 
 Such a name is used due to a conflict with the Pentadactyl "pintab" command.
+
+### Sample usage
+
+    :rinboard -description Description\ for\ current\ page tag1 tag2 .private-tag
+
+    :rinboard tag1 tag-other -description "Another way to make a description"
+
+### Pinboard API authentication
+
+If asked by Firefox, enter your standard username and password for Pinboard. There's no need to create a separate API account.
