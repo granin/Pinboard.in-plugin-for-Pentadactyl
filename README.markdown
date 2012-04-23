@@ -1,10 +1,6 @@
 # Pinboard.in plugin for Pentadactyl Firefox plugin
 
-This is basically just a cut and paste job on top of 
-<http://code.google.com/p/vimperator-labs/issues/detail?id=358>
-which is a basically just a cut and paste job on top of 
-the wonderful delicious plugin by nikolai.weibull 
-<http://code.google.com/p/vimperator-labs/issues/detail?id=241>
+This is basically just a cut and paste job on top of [Thedward Blevins' Pinboard adaptation](http://code.google.com/p/vimperator-labs/issues/detail?id=358) which is a basically just a cut and paste job on top of the wonderful [Delicious plugin by nikolai.weibull](http://code.google.com/p/vimperator-labs/issues/detail?id=241).
 
 ## Installation
 
