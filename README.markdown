@@ -1,3 +1,7 @@
+# Imoprtant announcement
+
+plug-in is not maintained currelty, please check alternative at https://github.com/bnbeckwith/pintaboard
+
 # Pinboard.in plugin for Pentadactyl Firefox plugin
 
 This is basically just a cut and paste job on top of [Thedward Blevins' Pinboard adaptation](http://code.google.com/p/vimperator-labs/issues/detail?id=358) which is a basically just a cut and paste job on top of the wonderful [Delicious plugin by nikolai.weibull](http://code.google.com/p/vimperator-labs/issues/detail?id=241).
